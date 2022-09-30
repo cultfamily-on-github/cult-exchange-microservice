@@ -1,11 +1,14 @@
-# CULT Education Games Microservice
+# CULT Exchange Microservice
 
 The cult exchange microservice is inspired by give and take groups resp. [free your stuff](https://www.facebook.com/groups/freeyourstuffhd) groups.   
 
 There will be a range slider to define in which radius you would like to offer your stuff or look for fancy stuff for yourself.  
 
+Privacy is not a crime.   
+  
+Collaboration is not a crime.
 
-In order to strengthen resilience, scalability, reusability via https and technological freedom for contributors, we establish a microservices architecture. 
+In order to strengthen resilience, scalability, reusability (via api calls or html embedding) and technological freedom for contributors to the whole system, we establish a microservices architecture. 
 
 ## Status
 First Drafts & Idea Collection
